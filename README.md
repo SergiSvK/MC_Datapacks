@@ -15,30 +15,38 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 _Que cosas necesitas para instalar el software y como instalarlas:_
 
 ```
-Da un ejemplo
+Minecraft Launcher Java Edition
 ```
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Para realizar la istalación deberá de diriguirse a la carpeta .minecraft o la carpeta donde tengas instalado el Minecraft_
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
+_Para buscar rápido la ruta de acceso del .minecraft puede usar el Windows + R para abrir el Ejecutador y introduccir el siguiente comando:_
 
 ```
-hasta finalizar
+%Appdata%
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+Una vez lo localizado el .minecraft, seguimos esta jerarquía de carpetas:
+
+```
+.minecraft > saves >SuHolaMundo > datapacks
+```
+
+_Deberás de arrastrar su .zip a dicha carpeta. _
+
+Una vez realizado estos pasos ya tendrá su datapack instalado.
 
 ## Ejecutando las pruebas ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Depende del la versión y del datapack que vayas a instalar deberás de recargar los archivos del mundo en el que los hayas instalado_
+
+El comando In-Game es el siguiente:
+
+```
+/reload
+```
 
 ### Analice las pruebas end-to-end 🔩
 
@@ -93,14 +101,8 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
 
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ con ❤️ por [SergiSvK](https://github.com/SergiSvK) 😊
