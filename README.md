@@ -1,12 +1,3 @@
-</p>
-<p align="center">
-  <a href="#commands">Commands</a> •
-  <a href="#requirements">Requirements</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#commands">Commandos</a>
-</p>
-
-
 # DataPacks Minecraft 1.15 - 1.16.x
 
 _Este repositorio se utilizará pra subir los datapacks que se usarán en el servidor de SvKarft._
