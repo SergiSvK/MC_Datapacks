@@ -1,6 +1,6 @@
 # DataPacks Minecraft 1.15 - 1.16.x
 
-_Este repositorio se utilizará pra subir los datapacks que se usarán en el servidor de SVK Corp._
+_Este repositorio se utilizará pra subir los datapacks que se usarán en el servidor de SvKarft._
 Todos los usuarios pueden descargarse los datapacks sin problema alguno.
 
 ## Comenzando 🚀
