@@ -47,7 +47,7 @@ El comando In-Game es el siguiente:
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 
 
