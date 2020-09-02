@@ -1,3 +1,12 @@
+</p>
+<p align="center">
+  <a href="#commands">Commands</a> •
+  <a href="#requirements">Requirements</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#commands">Commandos</a>
+</p>
+
+
 # DataPacks Minecraft 1.15 - 1.16.x
 
 _Este repositorio se utilizará pra subir los datapacks que se usarán en el servidor de SvKarft._
@@ -35,7 +44,7 @@ _Deberás de arrastrar su .zip a dicha carpeta._
 
 Una vez realizado estos pasos ya tendrá su datapack instalado.
 
-## Ejecutando las pruebas ⚙️
+## commands ⚙️
 
 _Depende del la versión y del datapack que vayas a instalar deberás de recargar los archivos del mundo en el que los hayas instalado_
 
