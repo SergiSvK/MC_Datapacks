@@ -1,4 +1,4 @@
-# DataPacks Minecraft 1.15-1.15.x
+# DataPacks Minecraft 1.15 - 1.16.x
 
 _Este repositorio se utilizará pra subir los datapacks que se usarán en el servidor de SVK Corp._
 Todos los usuarios pueden descargarse los datapacks sin problema alguno.
@@ -28,7 +28,7 @@ _Para buscar rápido la ruta de acceso del .minecraft puede usar el Windows + R 
 Una vez lo localizado el .minecraft, seguimos esta jerarquía de carpetas:
 
 ```
-.minecraft > saves >SuHolaMundo > datapacks
+.minecraft > saves >SuMundo > datapacks
 ```
 
 _Deberás de arrastrar su .zip a dicha carpeta._
@@ -44,31 +44,6 @@ El comando In-Game es el siguiente:
 ```
 /reload
 ```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
